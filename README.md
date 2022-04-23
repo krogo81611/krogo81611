@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-<h1 style="color: red;">Hello!</h1>
+<h1 style="color:red;font-size:12px;">Hello!</h1>
 <!---
 krogo81611/krogo81611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
