@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **React, Angular, Next**
 
-- 👨‍💻 All of my projects are available at [https://kevinrogo.cyclic.app/](https://kevinrogo.cyclic.app/)
-
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **HTML, CSS, JS, MuleSoft, C#, .NET, SQL**
 
 - 📫 How to reach me **krogo81611@gmail.com**
 
